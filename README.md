@@ -43,4 +43,32 @@ This project analyzes business sales data using Power BI to identify revenue tre
 - Focus marketing efforts on high-profit product categories.  
 - Improve or discontinue low-performing products.  
 - Expand operations in top-performing regions.  
-- Plan inventory based on seasonal demand trends.  
+- Plan inventory based on seasonal demand trends.
+
+▶️ How to Use
+
+Download or clone this repository.
+
+Open the .pbix file using Power BI Desktop.
+
+Load the provided dataset if prompted.
+
+Explore the dashboard using filters and slicers to view:
+
+Sales by region
+
+Profit by category
+
+Monthly and yearly trends
+
+📁 Dataset
+
+The dataset used in this project is a public sales dataset from Kaggle (Sample Superstore), containing:
+
+Order details
+
+Product categories
+
+Regional sales data
+
+Profit and revenue values
